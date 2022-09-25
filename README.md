@@ -1,10 +1,22 @@
 # March Madness- ML Clustering and EDA
-*reference .ipynb for relevant code
+* reference .ipynb for relevant code
 
-## Overview
-Use historic data on March Madness games from 1985-2016 to explore occurrences of lower seed teams winning in March Madness. This includes using EDA to visualize the frequency and time periods, as well as using Clustering to predict, when the lower seed team will win based on a variety of variables
+### Overview (TL:dr)
+* Use historic data on March Madness games from 1985-2016 to explore occurrences of lower seed teams winning in March Madness. This includes using EDA to visualize the frequency and time periods, as well as using Clustering to predict, when the lower seed team will win based on a variety of variables
 
-## Data Import 
+
+* Did X
+
+# Project Information
+
+## Abstract
+* XXX
+
+## Motivation
+
+## Dataset Information 
+
+### Data Import
 * Finding Data from 
 * Importing the Data and showing the 
 
@@ -17,7 +29,11 @@ Use historic data on March Madness games from 1985-2016 to explore occurrences o
 * Interpret total underdogs and underdogs under conditions 
 * Visualize underdogs across the years 
 
-## Machine Learning
+## Results  
+
+### EDA
+
+### Machine Learning
 * Split data into different train and test groups
 * Fit Model to Train Group
 * Make Predictions on Test Group
@@ -27,3 +43,5 @@ Use historic data on March Madness games from 1985-2016 to explore occurrences o
 * Incorporate and Utilize season ranking data to then 
 * Learn Sea Born and use a heatmap 
 * Expand Knowledge on Classification and Regression- does this data meet the conditions for use
+
+## Files Overview
