@@ -1,7 +1,7 @@
 
 
 # March Madness- ML Clustering and EDA
-_reference .ipynb for relevant code
+* *reference .ipynb for relevant code*
 
 ![image](https://user-images.githubusercontent.com/84430322/192155755-b5a40d95-10d3-48cd-b3b8-4405e090528d.png)
 
