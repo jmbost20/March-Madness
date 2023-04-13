@@ -13,6 +13,8 @@ As an aspiring basketball player, basketball analytics has always been fascinati
 ## Usage
 To use this project, simply download the repository and open the Jupyter notebook mm_a.ipynb in a Jupyter environment such as Jupyter Notebook or JupyterLab. From there, you can run the code and explore the results.
 
+
+## Preview
 <img src="https://github.com/jmbost20/March-Madness/blob/main/Screen%20Shot%202022-10-13%20at%2012.26.18%20PM.png" alt="Example" width="800"/>
 
 ### Requirements
